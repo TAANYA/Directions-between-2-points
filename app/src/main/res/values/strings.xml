@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Directions between 2 points</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
